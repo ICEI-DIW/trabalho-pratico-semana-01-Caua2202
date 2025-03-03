@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Cauã Vitor
+Matricula: 775269
 
 ## Tela de inspeção com navegador
 
+C:\Users\caua\REPOSITORIO-CAUA\trabalho-pratico-semana-01-Caua2202\Pagina.png
 
 ## Tela de projeto no Replit
 
+C:\Users\caua\REPOSITORIO-CAUA\trabalho-pratico-semana-01-Caua2202\DevTools.png
